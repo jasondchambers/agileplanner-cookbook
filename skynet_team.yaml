@@ -1,0 +1,68 @@
+team:
+  name: Skynet Team
+  persons:
+  - name: Terry Berry
+    start_date: '2023-01-01'
+    end_date: '2030-12-31'
+    front_end: True
+    back_end: False
+    qe: False
+    devops: False
+    documentation: False
+    reserve_capacity: 0.4
+    location: Bangalore
+    out_of_office_dates:
+    - '2023-11-02'
+    - '2023-11-03'
+    - '2023-11-06'
+    - '2023-11-07'
+    - '2023-11-08'
+    - '2023-11-09'
+    - '2023-11-10'
+    - '2023-11-14'
+    - '2023-11-15'
+    - '2023-11-16'
+    - '2023-11-17'
+    - '2023-11-20'
+    - '2023-11-21'
+    - '2023-11-22'
+  - name: Hunter Pointer
+    start_date: '2023-01-01'
+    end_date: '2030-12-31'
+    front_end: True
+    back_end: False
+    qe: False
+    devops: False
+    documentation: False
+    reserve_capacity: 0.3
+    location: Bangalore
+    out_of_office_dates:
+    - '2023-11-02'
+    - '2023-11-03'
+    - '2023-11-06'
+    - '2023-11-07'
+    - '2023-11-08'
+    - '2023-11-09'
+    - '2023-11-10'
+    - '2023-11-14'
+    - '2023-11-15'
+  - name: Iris in a Crisis
+    start_date: '2023-01-01'
+    end_date: '2030-12-31'
+    front_end: True
+    back_end: False
+    qe: False
+    devops: False
+    documentation: False
+    reserve_capacity: 0.3
+    location: Bangalore
+    out_of_office_dates:
+    - '2023-11-02'
+    - '2023-11-03'
+    - '2023-11-06'
+    - '2023-11-07'
+    - '2023-11-08'
+    - '2023-11-09'
+    - '2023-11-10'
+    - '2023-11-14'
+    - '2023-11-15'

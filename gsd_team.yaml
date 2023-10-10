@@ -1,0 +1,121 @@
+team:
+  name: GSD Team
+  persons:
+  - name: Brian Hofmeister
+    start_date: '2023-01-01'
+    end_date: '2030-12-31'
+    front_end: False
+    back_end: False
+    qe: False
+    devops: False
+    documentation: False
+    reserve_capacity: 1.0
+    location: US
+    out_of_office_dates: []
+  - name: Mary the Manager
+    start_date: '2023-01-01'
+    end_date: '2030-12-31'
+    front_end: False
+    back_end: False
+    qe: False
+    devops: False
+    documentation: False
+    reserve_capacity: 1.0
+    location: US
+    out_of_office_dates: []
+  - name: Scooby Doo
+    start_date: '2023-01-01'
+    end_date: '2030-12-31'
+    front_end: False
+    back_end: True
+    qe: False
+    devops: False
+    documentation: False
+    reserve_capacity: 0.75
+    location: US
+    out_of_office_dates:
+    - '2023-10-02'
+    - '2023-10-03'
+    - '2023-10-04'
+    - '2023-10-05'
+    - '2023-10-06'
+    - '2023-10-09'
+    - '2023-10-10'
+    - '2023-10-11'
+  - name: Ziggy Stardust
+    start_date: '2023-01-01'
+    end_date: '2030-12-31'
+    front_end: False
+    back_end: True
+    qe: False
+    devops: False
+    documentation: False
+    reserve_capacity: 0.3
+    location: US
+    out_of_office_dates:
+    - '2023-10-02'
+    - '2023-10-03'
+    - '2023-10-04'
+    - '2023-10-05'
+    - '2023-10-06'
+    - '2023-10-09'
+    - '2023-10-10'
+    - '2023-10-11'
+  - name: Frankie Boyle
+    start_date: '2023-01-01'
+    end_date: '2030-12-31'
+    front_end: False
+    back_end: True
+    qe: False
+    devops: False
+    documentation: False
+    reserve_capacity: 0.3
+    location: US
+    out_of_office_dates:
+    - '2023-10-02'
+    - '2023-10-03'
+    - '2023-10-04'
+    - '2023-10-05'
+    - '2023-10-06'
+    - '2023-10-09'
+    - '2023-10-10'
+    - '2023-10-11'
+  - name: Eastender Ricky
+    start_date: '2023-01-01'
+    end_date: '2030-12-31'
+    front_end: False
+    back_end: True
+    qe: False
+    devops: False
+    documentation: False
+    reserve_capacity: 0.35
+    location: Canada
+    out_of_office_dates:
+    - '2023-10-02'
+    - '2023-10-03'
+    - '2023-10-04'
+    - '2023-10-05'
+    - '2023-10-06'
+    - '2023-10-10'
+    - '2023-10-11'
+    - '2023-10-12'
+  - name: Indy Jones
+    start_date: '2023-01-01'
+    end_date: '2030-12-31'
+    front_end: False
+    back_end: True
+    qe: False
+    devops: False
+    documentation: False
+    reserve_capacity: 0.4
+    location: Bangalore
+    out_of_office_dates:
+    - '2023-10-03'
+    - '2023-10-04'
+    - '2023-10-05'
+    - '2023-10-06'
+    - '2023-10-09'
+    - '2023-10-10'
+    - '2023-10-11'
+    - '2023-10-12'
+    - '2023-10-13'

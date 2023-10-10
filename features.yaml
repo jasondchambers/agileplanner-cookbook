@@ -1,0 +1,18 @@
+features:
+- key: CSESC-52
+  epics:
+  - key: CSESC-1022
+    estimated_size: 171
+    epic_type: FRONTEND
+  - key: CSESC-1023
+    estimated_size: 50
+    epic_type: BACKEND
+  - key: CSESC-1024
+    estimated_size: 10
+    epic_type: BACKEND
+- key: CSESC-53
+  epics:
+  - key: CSESC-1025
+    estimated_size: 30
+    epic_type: DEVOPS
+
