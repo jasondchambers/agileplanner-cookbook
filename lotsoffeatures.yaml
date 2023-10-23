@@ -1,0 +1,153 @@
+features:
+- key: CSESC-52
+  epics:
+  - key: CSESC-1
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-2
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-3
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-4
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-5
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-6
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-7
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-8
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-9
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-10
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-11
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-12
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-13
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-14
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-15
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-16
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-17
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-18
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-19
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-20
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-21
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-22
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-23
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-24
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-25
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-26
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-27
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-28
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-29
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-30
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-31
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-32
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-33
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-34
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-35
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-36
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-37
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-38
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-39
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-40
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-41
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-42
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-43
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-44
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-45
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-46
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-47
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-48
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-49
+    estimated_size: 1
+    epic_type: FRONTEND
+  - key: CSESC-50
+    estimated_size: 1
+    epic_type: FRONTEND

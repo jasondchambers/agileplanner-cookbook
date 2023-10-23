@@ -1,0 +1,14 @@
+team:
+  name: One Man Band
+  persons:
+  - name: Brian Hofmeister
+    start_date: '2023-01-01'
+    end_date: '2030-12-31'
+    front_end: True
+    back_end: False
+    qe: False
+    devops: False
+    documentation: False
+    reserve_capacity: 0.0
+    location: US
+    out_of_office_dates: []
